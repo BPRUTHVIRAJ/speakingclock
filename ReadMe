@@ -1,0 +1,13 @@
+# Speaking Clock Microservice
+
+## Description
+Converts 24-hour formatted time (e.g., "14:25") into human-readable spoken form (e.g., "It's two twenty five").
+
+## Requirements
+- Java 8
+- Maven
+
+## Build and Run
+```bash
+mvn clean install
+mvn spring-boot:run
